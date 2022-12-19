@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 BUSY WITH
 
 - ✨ Building new ways of learning online @ [Workshop](https://www.workshop.co.uk)
-- 👩‍🍳 Helping people around the world plan, shop & cook better @ [Sorted Sidekick](https://sortedfood.com/sidekick/)
+- 👩‍🍳 Helping people around the world to plan, shop & cook better @ [Sorted Sidekick](https://sortedfood.com/sidekick/)
 
 BIO
 
