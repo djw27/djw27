@@ -27,5 +27,5 @@ BIO
 - 🏢 Currently CTO at **Sorted Food** (20+ employees) and **Workshop** (1-10 employees)
 - ⚙️ My daily drivers are: `python` (Django), `typescript` (React & React Native)
 - 🌱 Learning all about `golang` & `rust`
-- 🏋️‍♀️ Technical leader with 6-years helping teams take new ideas to market
+- 🏋️‍♀️ Technical leader with 7-years helping teams take new ideas to market
 - 📫 Reach me: [danwilliams.dev](https://danwilliams.dev)
